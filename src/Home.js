@@ -1,0 +1,3 @@
+/*
+hold the component that renders if the user is logged in.
+*/
